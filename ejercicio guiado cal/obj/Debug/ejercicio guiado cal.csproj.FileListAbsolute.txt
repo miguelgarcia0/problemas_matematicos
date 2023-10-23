@@ -1,0 +1,10 @@
+E:\ejercicios guiados\ejercicio guiado cal\bin\Debug\ejercicio guiado cal.exe.config
+E:\ejercicios guiados\ejercicio guiado cal\bin\Debug\ejercicio guiado cal.exe
+E:\ejercicios guiados\ejercicio guiado cal\bin\Debug\ejercicio guiado cal.pdb
+E:\ejercicios guiados\ejercicio guiado cal\obj\Debug\ejercicio guiado cal.csproj.AssemblyReference.cache
+E:\ejercicios guiados\ejercicio guiado cal\obj\Debug\ejercicio_guiado_cal.Form1.resources
+E:\ejercicios guiados\ejercicio guiado cal\obj\Debug\ejercicio_guiado_cal.Properties.Resources.resources
+E:\ejercicios guiados\ejercicio guiado cal\obj\Debug\ejercicio guiado cal.csproj.GenerateResource.cache
+E:\ejercicios guiados\ejercicio guiado cal\obj\Debug\ejercicio guiado cal.csproj.CoreCompileInputs.cache
+E:\ejercicios guiados\ejercicio guiado cal\obj\Debug\ejercicio guiado cal.exe
+E:\ejercicios guiados\ejercicio guiado cal\obj\Debug\ejercicio guiado cal.pdb
